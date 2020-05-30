@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1036185996859",
+    "firebase_url": "https://fir-login-9b708.firebaseio.com",
+    "project_id": "fir-login-9b708",
+    "storage_bucket": "fir-login-9b708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036185996859:android:f88d88cb34ca977b13d61e",
+        "android_client_info": {
+          "package_name": "gino.abella.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036185996859-vuimek7q544bf55huqnmr1g5jtpnati3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAte_PiV5jbpBYV_iA6qlj-jZoXhUTZEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036185996859-vuimek7q544bf55huqnmr1g5jtpnati3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036185996859:android:357d96181a951e4313d61e",
+        "android_client_info": {
+          "package_name": "gino.abella.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036185996859-vuimek7q544bf55huqnmr1g5jtpnati3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAte_PiV5jbpBYV_iA6qlj-jZoXhUTZEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036185996859-vuimek7q544bf55huqnmr1g5jtpnati3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
